@@ -1,0 +1,39 @@
+.header{
+    background-image: url("https://lifeandmelanine.com/wp-content/uploads/2020/01/thought-catalog-23kdvfc395a-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid;
+    height: 70vh;
+    display: flex;
+
+    ul{
+        display: flex;
+        padding-right: 5em;
+        color: #FFF;
+        float: right;
+
+        li{
+            padding: 1em;
+            list-style: none;
+
+            a{
+                text-decoration: none;
+                color: black;
+                font-weight: bold;   
+            }
+        }
+    }
+
+    img {
+        width: 200px;
+        height: 200px;
+        float: left;
+    }
+    
+    h1{
+        margin:  auto;
+        color:#DDD222;
+        padding-left: 33%;
+        font-size: 3em;
+    }
+}

@@ -1,0 +1,44 @@
+.decouvrez_nos_nouveautes{
+    box-shadow: 5px 5px 5px rgba(233, 230, 230, 0.865);
+    margin-top:4em ;
+    border: 1px solid rgba(216, 216, 216 , 0.5);
+
+    .decouvrez_nos_nouveautes_image{
+        height: 80vh;
+        background-image: url("https://exforddemo.files.wordpress.com/2019/08/cris-tagupa-9zxhur5acwm-unsplash.jpg?w=1200");
+        background-size: cover;
+    }
+
+    .decouvrez_nos_nouveautes_description{
+        padding: 1em;
+        padding-top: 20%;
+
+        p{font-size: 15px;}
+
+        div{
+            text-align: center;
+            background-color: black;
+            color: #fff;
+            padding: 1em;
+        }
+    }
+    
+}
+
+.decouvrez_sans_limite{
+    box-shadow: 5px 5px 5px rgba(233, 230, 230, 0.865);
+    margin-top:4em ;
+    border: 1px solid rgba(216, 216, 216 , 0.5);
+
+    .decouvrez_sans_limite_description{
+        padding: 1em;
+        padding-top: 20%;
+
+    }
+
+    .decouvrez_sans_limite_image{
+        height: 80vh;
+        background-image: url("https://i2.wp.com/lifeandmelanine.com/wp-content/uploads/2020/03/boite-a-fleur.jpg?w=800&ssl=1");
+        background-size: cover;
+    }
+}
